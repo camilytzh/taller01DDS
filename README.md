@@ -1,4 +1,4 @@
-# Taller 01 Diseño de Software
+# Taller 03 Diseño de Software
 ## Indicaciones
 - Elabore 2 diagramas de secuencia utilizando una herramienta colaborativa como
 Visual Paradigm Online o LucidChart. Puede crear una cuenta gratuita utilizando su
